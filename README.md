@@ -1,15 +1,3 @@
----
-title: RecycloBot
-emoji: ♻️
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 6.12.0
-app_file: app.py
-pinned: true
-short_description: AI-Powered Recycling Adviser
----
-
 # ♻️ RecycloBot – AI-Powered Recycling Advisor
 
 RecycloBot helps users determine whether an item is recyclable using AI. It analyzes a description, an image, or both, and provides personalized, region-specific recycling guidance.
