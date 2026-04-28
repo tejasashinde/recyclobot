@@ -1,0 +1,5 @@
+gradio
+pillow
+openai
+google-genai
+reportlab
